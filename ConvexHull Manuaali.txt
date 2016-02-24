@@ -1,0 +1,9 @@
+1. Ajetaan tiedosto komentoriviltä komennolla "python main.py"
+
+2. Valitaan "Select Algorithm" valikosta halutaanko käyttää
+Jarvi's March vaiko Graham's Scan algoritmia. 
+
+3. Draw Convex-painike avaa uudelle näytölle ikkunan, johon
+käyttäjä voi hiirtä klikkaamalla piirtää pisteitä. Piirretyn 
+näkymän voi nollata painamalla välilyönti-painiketta ja 
+ikkuna suljetaan painamalla esc-näppäintä. 
